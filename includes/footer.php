@@ -31,7 +31,7 @@
                         <div class="block-23 mb-3">
                             <ul>
                                 <li><span class="icon icon-map-marker"></span><span class="text">PES University, EC Campus</span></li>
-                                <li><a href="https://nith.ml/chat" target="_blank"><span class="icon icon-phone"></span><span class="text">+91 9481543420</span></a></li>
+                                <li><a href="https://nith.ml/chat" target="_blank"><span class="icon icon-phone"/></span><span class="text">+91 9481543420</span></li>
                                 <li><a href="mailto:oneandonlytobe@gmail.com"><span class="icon icon-envelope"></span><span class="text">oneandonlytobe@gmail.com</span></a></li>
                             </ul>
                         </div>
