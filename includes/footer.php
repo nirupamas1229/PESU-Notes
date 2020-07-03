@@ -6,7 +6,7 @@
                 <div class="col-md">
                     <div class="ftco-footer-widget mb-4">
                         <h2 class="ftco-heading-2">PESU Notes</h2>
-                        <p>The Eassiest Way to Get Your Notes.</p>
+                        <p>The Easiest Way to Get Your Notes.</p>
                         <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-3">
                             <li class="ftco-animate"><a href="https://nith.ml/linkedin"><span class="icon-linkedin"></span></a></li>
                             <li class="ftco-animate"><a href="https://nith.ml/github"><span class="icon-github"></span></a></li>
